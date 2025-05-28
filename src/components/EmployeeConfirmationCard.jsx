@@ -236,7 +236,7 @@ const EmployeeConfirmation = () => {
                         <p className="text-gray-800 font-semibold break-words">{employee.department}</p>
                     </div>
                     <div>
-                        <p className="text-gray-500 text-xs">RS Manager</p>
+                        <p className="text-gray-500 text-xs">R1 Manager</p>
                         <p className="text-gray-900 font-bold break-words">{employee.rsManager}</p>
                     </div>
                     <div>
